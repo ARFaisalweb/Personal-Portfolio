@@ -1,0 +1,133 @@
+body{
+	width: 100%;
+	margin: 0;
+	font-family: Georgia, serif;
+}
+	
+
+h1{
+    font-size: 55px;
+}
+
+
+h2{
+	font-size: 40px;
+}
+
+p{
+	font-size: 20px;
+	text-align: left;
+}
+
+.project-heading{
+	color: orangered;
+}
+
+
+.name-color{
+    color: orangered;
+}
+
+.personal-info{
+    width: 40%;
+	float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    
+}
+
+.personal-info img{
+    width: 100%;
+}
+
+
+.first{
+	background-image: url("images/bg1.png");
+	background-repeat: no-repeat;
+	margin: 5px;
+	padding: 2px;
+}
+
+.details{
+	background-image: url("images/bg2.jpg");
+	margin: 5px;
+	padding: 2px;
+}
+
+
+section{
+	height: 550px;
+}
+
+.link-button{
+    text-decoration: none;
+	background-image: linear-gradient(45deg, lightSalmon, tomato);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700px;
+    
+}
+
+.work-info{
+	width: 25%;
+	float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.add-style{
+	box-shadow: 5px 5px 30px gray;
+	border-radius: 10px;
+	height: 80%;
+}
+
+.project-area{
+	height: 700px;
+	
+}
+
+
+.position{
+	padding-top: 5px;
+	height: 60%;
+	width: 90%;
+}
+
+
+.content-rap{
+	width:90%;
+	margin: 5% 5% 5% 5%;
+}
+
+.content-rap img{
+	width: 100%;
+}
+
+.text-rap{
+	width:100%;
+	
+	margin-top: -16%;
+}
+
+.text-rap h1{
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	position: middle;
+}
+
+
+footer p{
+	text-align: center;
+
+}
+
+#f1{
+	font-size: 15px;
+}
+
+#f2{
+	color: orange;
+}
+
